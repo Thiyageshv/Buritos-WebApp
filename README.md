@@ -1,7 +1,7 @@
 Buritos-webapp
 ==============
 
-Buritos is a basic implementation of Food commerce web application which I designed in my 1st year of Undergraduation. Therefore my first repository.
+Buritos(No ,not burritos ) is a basic implementation of Food commerce web application which I designed in my 1st year of Undergraduation. Therefore my first repository.
 
 
 This food sales and order management system based application .The application can be used to provide customized home deliveries of food items from various franchises. The application employs extensive use of databases and mysql query language.
